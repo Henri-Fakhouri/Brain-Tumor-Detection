@@ -18,4 +18,12 @@ Mention the different libraries used (bullet points)
 OPEN SOURCE, no copyright infrigement intended towards the authors of the paper, this is merely an implementation of the theory into hard code.
 
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-fakhouri/)
 
