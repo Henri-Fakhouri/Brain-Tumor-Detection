@@ -11,17 +11,16 @@ Mention the different libraries used (bullet points)
 
 ## How to setup
 
+Explain installation
+
 ## Use
+
+Explain how to use
 
 ## Licence
 
 OPEN SOURCE, no copyright infrigement intended towards the authors of the paper, this is merely an implementation of the theory into hard code.
-
-
-## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## 🔗 Links
 
