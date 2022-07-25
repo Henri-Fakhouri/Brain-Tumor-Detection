@@ -7,7 +7,7 @@ Link to the paper: https://www.mdpi.com/2076-3417/12/8/3773/pdf
 
 ## Requirements
 
-Mention the different libraries used (bullet points)
+--
 
 ## How to setup
 
