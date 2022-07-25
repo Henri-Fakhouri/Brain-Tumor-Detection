@@ -11,11 +11,11 @@ Mention the different libraries used (bullet points)
 
 ## How to setup
 
-Explain installation
+--
 
 ## Use
 
-Explain how to use
+--
 
 ## Licence
 
